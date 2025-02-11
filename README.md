@@ -13,7 +13,7 @@ git clone https://github.com/veikoon/boxhead_flash_player
 python3 -m http.server 8080
 ```
 
-Using Docker :
+Using Docker (87.8Mb):
 ```
 docker build -t boxhead .
 docker run -p docker run -p 8080:80 boxhead
